@@ -189,4 +189,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Location**: Lanzarote, Canary Islands
 - **Email**: canariaseec@gmail.com
 - **Email**: afkirslimaninabil@gmail.com
-- **Phone**: +34 651 32 64 62
